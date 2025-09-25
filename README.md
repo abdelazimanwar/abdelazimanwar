@@ -31,6 +31,6 @@ I’m currently deepening my knowledge of data visualization and exploring advan
 
 📫 Let’s Connect
 
-LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/abdelazim-anwar)
+LinkedIn: (https://www.linkedin.com/in/abdelazim-anwar)
 
 Email: abdelazimmohamed1000@gmail.com
