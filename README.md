@@ -9,7 +9,7 @@ I’m a data analyst passionate about transforming raw numbers into clear, actio
 
 Excel (ETL, pivot tables, DashBoards)
 
-SQL (Queries, extract insights)
+SQL (Queries, extracting insights)
 
 Python (Numpy, pandas, matplotlib)
 
