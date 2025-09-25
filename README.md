@@ -1,3 +1,4 @@
+![image alt](https://github.com/abdelazimanwar/abdelazimanwar/blob/main/360_F_438931535_DhZaUQHbGvGUxLzPNzT4inocmtABLBoO.jpg?raw=true)
 👋 Hi, I’m Abdelazim
 
 I’m a data analyst passionate about turning raw numbers into clear, actionable insights that help businesses grow.
