@@ -1,4 +1,4 @@
-![image alt](https://github.com/abdelazimanwar/abdelazimanwar/blob/main/360_F_438931535_DhZaUQHbGvGUxLzPNzT4inocmtABLBoO.jpg?raw=true)
+![image alt](https://github.com/abdelazimanwar/abdelazimanwar/blob/main/image.jpg?raw=true)
 
 👋 Hi, I’m Abdelazim
 
